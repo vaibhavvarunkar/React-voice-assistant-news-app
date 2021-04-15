@@ -30,7 +30,7 @@ const NewsCards = ({ articles, activeArticle }) => {
                                             <br />
                                             {infoCard.info}
                                         </Typography>) : null}
-                                <Typography variant="h6">Try Syaing: <br /> <i>{infoCard.text}</i></Typography>
+                                <Typography variant="h6">Try Saying: <br /> <i>{infoCard.text}</i></Typography>
                             </div>
                         </Grid>
                     ))}
